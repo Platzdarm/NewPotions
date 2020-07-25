@@ -5,3 +5,10 @@ My mod that adds a bunch of new potions to the game and adds a bunch of new thin
 The mod also has a Alchemy part to it. 
 At the moment it is late game and most feathers have not been added.
 Version - 1.0.0 - 7/25/20
+-Ruby tools
+-Ruby Armor
+-Rods
+-Ruby block and ore gen
+-Poison Apple
+-Encrusted ruby
+-rubies
